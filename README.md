@@ -1,5 +1,5 @@
 # NoPodium_WCA
-# No. of competitions attended before the 1st podium
+# No. of competitions attended w/o podium
 
 |name	|Country	|Counts|
 | --------| ------ | ------ |
